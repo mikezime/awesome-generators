@@ -19,7 +19,7 @@
 * [Gpx to Sqlite](http://www.whiterocksoftware.com/2023/07/convert-6-types-of-files-to-sqlite.html#GpxtoSqlite)
 * [Text to Sqlite](http://www.whiterocksoftware.com/2023/07/convert-6-types-of-files-to-sqlite.html#TexttoSqlite)
 
-## Viewer Generators
+## Viewers
 
 * [Dbf Viewer](http://www.whiterocksoftware.com/2019/02/dbf-viewer.html)
 * [Wpt Viewer](http://www.whiterocksoftware.com/2019/02/wpt-file-viewer.html)
@@ -61,7 +61,7 @@
 * [Xlf Viewer](https://xliff-files.blogspot.com/2023/09/xlf-file-viewer.html)
 * [X12 Viewer](https://whiterockonly.blogspot.com/2023/11/effortless-x12-data-analysis-your.html)
 
-## db Generators
+## Paradox db Generators
 
 * [Paradox db Viewer](http://www.whiterocksoftware.com/2019/05/paradox-db-viewer.html)
 * [Paradox db to Excel](http://www.whiterocksoftware.com/2019/05/paradox-db-to-excel.html)
@@ -550,7 +550,7 @@
 * [Tcx to Xls](http://www.whiterocksoftware.com/2023/07/top-10-tcx-converters.html#TcxtoXls)
 * [Yaml to Xls](http://www.whiterocksoftware.com/2019/03/convert-yaml-file-to-excel.html#YamltoXls)
 
-## e Generators
+## Joiners
 
 * [Combine Xls](http://www.whiterocksoftware.com/2019/11/combine-multiple-xls-files-into-one.html)
 * [Combine Csv To Xls](http://www.whiterocksoftware.com/2019/11/combine-csv-files-into-one-excel.html)
